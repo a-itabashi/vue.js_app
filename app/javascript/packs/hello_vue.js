@@ -28,9 +28,9 @@ const vm = new Vue({
       };
 
       this.students.push(item);
-      this.name = "";
-      this.cource = "";
-      this.acceptance_period = "";
+      // this.name = "";
+      // this.cource = "";
+      // this.acceptance_period = "";
     }
   }
 })
